@@ -4,6 +4,7 @@ output/*
 input/*
 easyreg/models_2/
 easyreg/models_2/*
+bold_signal/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
